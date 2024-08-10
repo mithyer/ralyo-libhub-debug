@@ -1,5 +1,5 @@
 name: My library
-small_poster_url: https://cdn2.suno.ai/image_bb9ae06a-44cd-4a47-bd62-8041333f1893.jpeg
+poster_url: https://cdn2.suno.ai/image_bb9ae06a-44cd-4a47-bd62-8041333f1893.jpeg
 description: This is a library of songs
 version: 3
 songs: songs
